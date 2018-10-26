@@ -26,7 +26,8 @@ ja:
       within_reach_title: いつでも身近に
     generic_description: "%{domain} は、Mastodon インスタンスの一つです"
     hosted_on: Mastodon hosted on %{domain}
-    learn_more: もっとほたに詳しく
+    learn_more: もっと詳しく
+    learn_hota: もっとほたに詳しく
     other_instances: 他のインスタンス
     privacy_policy: プライバシーポリシー
     source_code: ソースコード
